@@ -55,6 +55,7 @@ public class BrandController {
 			e.printStackTrace();
 			return new Result(false,"删除失败");
 		}
+
 	}
 
 	//按条件查询
