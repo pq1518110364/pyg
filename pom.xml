@@ -248,7 +248,15 @@
 	            <groupId>xml-apis</groupId>  
 	            <artifactId>xml-apis</artifactId>  
 	            <version>1.4.01</version>  
-	        </dependency> 		
+	        </dependency>
+			<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+			<dependency>
+				<groupId>org.apache.commons</groupId>
+				<artifactId>commons-lang3</artifactId>
+				<version>3.4</version>
+			</dependency>
+
+
 		</dependencies>	
 	
 	</dependencyManagement>
