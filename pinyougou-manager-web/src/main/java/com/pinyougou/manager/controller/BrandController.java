@@ -1,6 +1,7 @@
 package com.pinyougou.manager.controller;
 
 import java.util.List;
+import java.util.Map;
 
 import entity.PageResult;
 import entity.Result;
@@ -63,6 +64,10 @@ public class BrandController {
 	@RequestMapping("/search")
 	public PageResult search(@RequestBody TbBrand tbBrand,int page,int size){
 		return brandService.search(tbBrand,page,size);
+	}
+	@RequestMapping("/selectOptionList")
+	public List<Map> selectOptionList() {
+		return brandService.selectOptionList();
 	}
 
 }
