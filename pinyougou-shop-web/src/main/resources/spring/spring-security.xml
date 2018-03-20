@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans xmlns="http://www.springframework.org/schema/security"
+             xmlns:beans="http://www.springframework.org/schema/beans"
+             xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+						http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd
+						http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security.xsd">
+
+    <!-- 设置页面不登陆也可以访问 -->
+    <http pattern="/*.html" security="none"></http>
+    <http pattern="/css/**" security="none"></http>
+    <http pattern="/img/**" security="none"></http>
+    <http pattern="/js/**" security="none"></http>
+    <http pattern="/plugins/**" security="none"></http>
+    <!--注意商家注册的时候 不需要拦截 可以访问-->
+    <http pattern="/seller/add.do" security="none"></http>
+    <!-- 页面的拦截规则    use-expressions:是否启动SPEL表达式 默认是true -->
+    <http use-expressions="false">
+        <!--角色设置,必须是商家才能访问的页面-->
+        <intercept-url pattern="/**" access="ROLE_SELLER"/>
+        <!--开启表单登录的功能-->
+        <form-login always-use-default-target="true" login-page="shoplogin.html" authentication-failure-url="shoplogin.html" default-target-url="/admin/index.html"/>
+        <!--关闭csrf 跨站请求伪造  自定义RequestMatcher的实现类CsrfSecurityRequestMatcher-->
+        <csrf disabled="true"/>
+        <!--  针对跨域问题的解决
+                DENY：浏览器拒绝当前页面加载任何Frame页面
+            SAMEORIGIN：frame页面的地址只能为同源域名下的页面
+            ALLOW-FROM：origin为允许frame加载的页面地址。-->
+        <headers>
+            <frame-options policy="SAMEORIGIN"/>
+        </headers>
+        <!--默认的退出登录-->
+        <logout/>
+    </http>
+
+</beans:beans>

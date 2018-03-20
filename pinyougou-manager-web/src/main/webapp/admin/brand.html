@@ -23,9 +23,19 @@
 	<script type="text/javascript" src="../js/service/brandService.js"></script>
 	<script type="text/javascript" src="../js/controller/baseController.js"></script>
 	<script type="text/javascript" src="../js/controller/brandController.js"></script>
-    
+
+
+	<script type="text/javascript" src="../plugins/angularjs/angular.min.js"> </script>
+	<!-- 分页组件开始 -->
+	<script src="../plugins/angularjs/pagination.js"></script>
+	<link rel="stylesheet" href="../plugins/angularjs/pagination.css">
+	<!-- 分页组件结束 -->
+	<script type="text/javascript" src="../js/base_pagination.js"> </script>
+	<script type="text/javascript" src="../js/service/sellerService.js"> </script>
+	<script type="text/javascript" src="../js/controller/baseController.js"> </script>
+	<script type="text/javascript" src="../js/controller/sellerController.js"> </script>
 </head>
-<body class="hold-transition skin-red sidebar-mini" ng-app="pinyougou" ng-controller="brandController" >
+<body class="hold-transition skin-red sidebar-mini" ng-app="pinyougou" ng-controller="sellerController" ng-init="searchEntity={status:'0'}">
   <!-- .box-body -->
                     <div class="box-header with-border">
                         <h3 class="box-title">品牌管理</h3>
@@ -82,8 +92,8 @@
 			                  </table>
 			                  <!--数据列表/-->
 							<tm-pagination conf="paginationConf"></tm-pagination>
-							 
-                        </div>
+
+						</div>
                         <!-- 数据表格 /-->
                      </div>
                     <!-- /.box-body -->
