@@ -2,721 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9483047f-f103-443b-8e50-9a790c2c88c4" name="Default" comment="day three">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_1_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_1_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_1_0_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/java/com/pinyougou/manager/controller/LoginController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/resources/spring/spring-security.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/controller/indexController.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/service/loginService.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/SellerController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/resources/spring/spring-security.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/admin/goods.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/admin/goods_edit.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/admin/home.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/admin/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/admin/password.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/admin/seller.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/cooperation.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/css/pages-cooperation.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/css/pages-register.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/css/pages-sampling.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/css/pages-shoplogin.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/css/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/css/webbase.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/57b51ea9Nb862ca5e.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/Logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/b1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/b2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/b3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/banner.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/buy001.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/buy002.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/buy01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/car.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/clock.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/code.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/cooperation_banner.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/down-icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/dp01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/dp02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/dp03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/dp04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/empty_heart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/erweima.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/fail.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/gocart.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/gocart01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/gotop.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/icon-red.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/intro01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/intro02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/intro03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/itemlike01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/itemlike02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/itemlike03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/itemlike04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/itemlike05.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/itemlike06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/l-m01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/list.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/list.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/login-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/manage-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/mobile01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/mobile02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/mobile03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/mobile04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/mobile05.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/mobile06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/part01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/part02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/part03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay14.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay15.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay16.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay17.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay18.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay19.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay20.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay21.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay22.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/pay5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone05.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone07.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone08.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone09.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/phone14.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/photo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/photo_icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/right.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/s1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/s2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/s3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/sampling_head.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/seckillbg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/shi_heart.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/shop-intro.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/shop-logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/shop-part.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/t.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/title_bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/_/y24.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/account.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/ad.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/ad1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/ali.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/american-express.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/itemlike/itemlike01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/itemlike/itemlike02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/itemlike/itemlike03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/itemlike/itemlike04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/itemlike/itemlike05.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/itemlike/itemlike06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/fail.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay10.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay14.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay15.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay16.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay17.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay18.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay19.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay20.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay21.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay22.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/pay5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/pay/right.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/dp01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/dp02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/dp03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/dp04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/intro01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/intro02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/intro03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/l-m01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/mobile01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/mobile02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/mobile03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/mobile04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/mobile05.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/mobile06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/part01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/part02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/part03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone05.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone07.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone08.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone09.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/phone/phone14.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/success-cart/buy001.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/success-cart/buy002.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/success-cart/buy01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/success-cart/gocart.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/success-cart/gocart01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/zoom/b1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/zoom/b2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/zoom/b3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/zoom/s1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/zoom/s2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/assets/img/zoom/s3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/avatar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/avatar04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/avatar2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/avatar3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/avatar5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/banner1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/banner1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/banner2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/banner3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/banner4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/barrow.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/boxed-bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/boxed-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand05.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand07.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand08.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand09.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand_03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand_05.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand_07.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand_09.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand_11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand_13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand_15.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand_17.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand_19.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/brand_21.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/cartPanelViewIcons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/choosed.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/cirrus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/clock.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/delete.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/duihuan.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/erweima.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/floor-1-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/floor-1-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/floor-1-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/floor-1-4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/floor-1-5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/floor-1-6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/floor-1-b01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/floor-1-b02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/floor-1-b03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/goods.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/icon-red.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/interest01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/interest02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/interest03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/interest04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/interest05.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/interest06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/like1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/like2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/like3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/like4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/like_01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/like_02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/like_03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/like_04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/like_05.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/like_06.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/linker.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/lock.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/loginbg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/mastercard.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/mestro.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/mod-list.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/paypal.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/paypal2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/phone-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/photo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/photo1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/photo2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/photo3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/photo4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/qq.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/quan.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/sina.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/today01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/today02.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/today03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/today04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/user1-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/user2-160x160.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/user3-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/user4-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/user5-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/user6-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/user7-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/user8-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/visa.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/weixin.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/wx_cz.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/img/zoom.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/angular-select2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/base.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/base_pagination.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/controller/baseController.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/controller/goodsController.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/controller/sellerController.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/service/goodsService.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/service/sellerService.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/service/uploadService.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/AdminLTE.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/AdminLTE.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-bootstrap-social.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-bootstrap-social.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-fullcalendar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-fullcalendar.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-select2.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-select2.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-without-plugins.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/alt/AdminLTE-without-plugins.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/_all-skins.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/_all-skins.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-black-light.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-black-light.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-black.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-black.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue-light.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue-light.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-blue.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-green-light.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-green-light.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-green.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-green.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple-light.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple-light.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-purple.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-red-light.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-red-light.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-red.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-red.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow-light.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow-light.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/css/skins/skin-yellow.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/avatar.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/avatar04.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/avatar2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/avatar3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/avatar5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/boxed-bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/boxed-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/credit/american-express.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/credit/cirrus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/credit/mastercard.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/credit/mestro.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/credit/paypal.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/credit/paypal2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/credit/visa.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/default-50x50.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/icons.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/photo1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/photo2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/photo3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/photo4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/user1-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/user2-160x160.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/user3-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/user4-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/user5-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/user6-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/user7-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/img/user8-128x128.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/js/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/js/app.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/js/demo.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/js/pages/dashboard.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/adminLTE/js/pages/dashboard2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/angularjs/angular-animate.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/angularjs/angular-route.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/angularjs/angular.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/angularjs/pagination.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/angularjs/pagination.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/css/bootstrap-datetimepicker.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/images/arrows.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/bootstrap/js/npm.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/jQuery/jquery-2.2.3.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/kindeditor-all-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/kindeditor-all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/kindeditor-min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/kindeditor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/lang/ar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/lang/en.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/lang/ko.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/lang/zh_CN.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/lang/zh_TW.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/anchor/anchor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/autoheight/autoheight.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/baidumap/baidumap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/baidumap/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/baidumap/map.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/clearhtml/clearhtml.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/code/code.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/code/prettify.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/code/prettify.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/emoticons.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/0.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/1.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/10.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/100.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/101.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/102.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/103.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/104.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/105.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/106.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/107.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/108.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/109.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/11.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/110.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/111.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/112.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/113.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/114.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/115.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/116.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/117.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/118.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/119.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/12.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/120.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/121.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/122.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/123.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/124.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/125.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/126.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/127.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/128.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/129.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/13.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/130.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/131.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/132.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/133.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/134.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/14.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/15.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/16.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/17.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/18.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/19.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/2.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/20.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/21.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/22.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/23.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/24.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/25.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/26.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/27.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/28.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/29.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/3.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/30.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/31.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/32.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/33.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/34.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/35.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/36.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/37.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/38.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/39.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/4.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/40.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/41.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/42.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/43.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/44.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/45.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/46.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/47.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/48.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/49.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/5.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/50.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/51.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/52.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/53.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/54.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/55.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/56.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/57.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/58.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/59.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/6.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/60.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/61.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/62.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/63.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/64.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/65.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/66.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/67.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/68.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/69.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/7.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/70.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/71.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/72.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/73.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/74.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/75.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/76.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/77.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/78.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/79.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/8.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/80.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/81.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/82.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/83.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/84.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/85.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/86.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/87.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/88.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/89.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/9.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/90.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/91.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/92.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/93.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/94.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/95.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/96.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/97.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/98.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/99.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/emoticons/images/static.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/filemanager/filemanager.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/filemanager/images/file-16.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/filemanager/images/file-64.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/filemanager/images/folder-16.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/filemanager/images/folder-64.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/filemanager/images/go-up.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/flash/flash.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/image/image.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/image/images/align_left.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/image/images/align_right.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/image/images/align_top.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/image/images/refresh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/insertfile/insertfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/lineheight/lineheight.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/link/link.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/map/map.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/map/map.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/media/media.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/multiimage/images/image.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/multiimage/images/select-files-en.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/multiimage/images/swfupload.swf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/multiimage/multiimage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/pagebreak/pagebreak.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/plainpaste/plainpaste.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/preview/preview.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/quickformat/quickformat.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/table/table.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/template/html/1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/template/html/2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/template/html/3.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/template/template.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/plugins/wordpaste/wordpaste.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/common/anchor.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/common/blank.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/common/flash.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/common/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/common/media.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/common/rm.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/default/background.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/default/default.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/default/default.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/qq/editor.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/qq/qq.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/kindeditor/themes/simple/simple.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/.bower.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/bower.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/component.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/composer.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/release.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2-bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2-spinner.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2.jquery.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_ar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_bg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_ca.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_cs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_da.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_de.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_el.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_en.js.template" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_es.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_et.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_eu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_fa.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_fi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_fr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_gl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_he.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_hr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_hu.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_id.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_is.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_it.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_ja.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_ka.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_ko.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_lt.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_lv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_mk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_ms.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_nl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_no.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_pl.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_pt-BR.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_pt-PT.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_ro.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_rs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_ru.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_sk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_sv.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_th.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_tr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_uk.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_vi.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_zh-CN.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2_locale_zh-TW.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/plugins/select2/select2x2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/register.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/sampling.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/shoplogin.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_manager_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/pinyougou_manager_web_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/pinyougou_shop_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/pinyougou_shop_web_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/service/UserDetailsServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/LoginController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/controller/indexController.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/service/loginService.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-dao/target/classes/com/pinyougou/mapper/TbBrandMapper.class" afterPath="$PROJECT_DIR$/pinyougou-dao/target/classes/com/pinyougou/mapper/TbBrandMapper.class" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-dao/target/classes/com/pinyougou/mapper/TbBrandMapper.xml" afterPath="$PROJECT_DIR$/pinyougou-dao/target/classes/com/pinyougou/mapper/TbBrandMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-dao/target/classes/com/pinyougou/mapper/TbSpecificationMapper.class" afterPath="$PROJECT_DIR$/pinyougou-dao/target/classes/com/pinyougou/mapper/TbSpecificationMapper.class" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-dao/target/classes/com/pinyougou/mapper/TbSpecificationMapper.xml" afterPath="$PROJECT_DIR$/pinyougou-dao/target/classes/com/pinyougou/mapper/TbSpecificationMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-dao/target/pinyougou-dao-0.0.5-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou-dao/target/pinyougou-dao-0.0.5-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/pinyougou-manager-web.iml" afterPath="$PROJECT_DIR$/pinyougou-manager-web/pinyougou-manager-web.iml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/pom.xml" afterPath="$PROJECT_DIR$/pinyougou-manager-web/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/src/main/java/com/pinyougou/manager/controller/SellerController.java" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/java/com/pinyougou/manager/controller/SellerController.java" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/brand.html" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/brand.html" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/index.html" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/index.html" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/seller.html" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/seller.html" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/seller_1.html" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/seller_1.html" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/controller/sellerController.js" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/controller/sellerController.js" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/service/sellerService.js" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/service/sellerService.js" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/login.html" afterPath="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/login.html" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/target/classes/com/pinyougou/manager/controller/BrandController.class" afterPath="$PROJECT_DIR$/pinyougou-manager-web/target/classes/com/pinyougou/manager/controller/BrandController.class" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/pinyougou-manager-web/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/pinyougou-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/pinyougou-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT.war" afterPath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT.war" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT/WEB-INF/classes/com/pinyougou/manager/controller/BrandController.class" afterPath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT/WEB-INF/classes/com/pinyougou/manager/controller/BrandController.class" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT/WEB-INF/lib/pinyougou-sellergoods-interface-0.0.5-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT/WEB-INF/lib/pinyougou-sellergoods-interface-0.0.5-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT/admin/index.html" afterPath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT/admin/index.html" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT/admin/type_template.html" afterPath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT/admin/type_template.html" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT/login.html" afterPath="$PROJECT_DIR$/pinyougou-manager-web/target/pinyougou-manager-web-0.0.5-SNAPSHOT/login.html" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/SellerService.java" afterPath="$PROJECT_DIR$/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/SellerService.java" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-sellergoods-interface/target/classes/com/pinyougou/sellergoods/service/BrandService.class" afterPath="$PROJECT_DIR$/pinyougou-sellergoods-interface/target/classes/com/pinyougou/sellergoods/service/BrandService.class" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-sellergoods-interface/target/pinyougou-sellergoods-interface-0.0.5-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou-sellergoods-interface/target/pinyougou-sellergoods-interface-0.0.5-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/SellerServiceImpl.java" afterPath="$PROJECT_DIR$/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/SellerServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-sellergoods-service/target/classes/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.class" afterPath="$PROJECT_DIR$/pinyougou-sellergoods-service/target/classes/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-sellergoods-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/pinyougou-sellergoods-service/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.5-SNAPSHOT.war" afterPath="$PROJECT_DIR$/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.5-SNAPSHOT.war" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.5-SNAPSHOT/WEB-INF/classes/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.class" afterPath="$PROJECT_DIR$/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.5-SNAPSHOT/WEB-INF/classes/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.5-SNAPSHOT/WEB-INF/lib/pinyougou-dao-0.0.5-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.5-SNAPSHOT/WEB-INF/lib/pinyougou-dao-0.0.5-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.5-SNAPSHOT/WEB-INF/lib/pinyougou-sellergoods-interface-0.0.5-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/pinyougou-sellergoods-service/target/pinyougou-sellergoods-service-0.0.5-SNAPSHOT/WEB-INF/lib/pinyougou-sellergoods-interface-0.0.5-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/pinyougou-shop-web.iml" afterPath="$PROJECT_DIR$/pinyougou-shop-web/pinyougou-shop-web.iml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/pom.xml" afterPath="$PROJECT_DIR$/pinyougou-shop-web/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/src/main/resources/spring/springmvc.xml" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/resources/spring/springmvc.xml" />
+      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/SellerController.java" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/SellerController.java" />
+      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/src/main/resources/spring/spring-security.xml" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/resources/spring/spring-security.xml" />
       <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/WEB-INF/web.xml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/target/classes/spring/springmvc.xml" afterPath="$PROJECT_DIR$/pinyougou-shop-web/target/classes/spring/springmvc.xml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/pinyougou-shop-web/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/target/pinyougou-shop-web-0.0.5-SNAPSHOT.war" afterPath="$PROJECT_DIR$/pinyougou-shop-web/target/pinyougou-shop-web-0.0.5-SNAPSHOT.war" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/target/pinyougou-shop-web-0.0.5-SNAPSHOT/WEB-INF/classes/spring/springmvc.xml" afterPath="$PROJECT_DIR$/pinyougou-shop-web/target/pinyougou-shop-web-0.0.5-SNAPSHOT/WEB-INF/classes/spring/springmvc.xml" />
-      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/target/pinyougou-shop-web-0.0.5-SNAPSHOT/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/pinyougou-shop-web/target/pinyougou-shop-web-0.0.5-SNAPSHOT/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/admin/index.html" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/admin/index.html" />
+      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/controller/sellerController.js" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/controller/sellerController.js" />
+      <change beforePath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/service/sellerService.js" afterPath="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/service/sellerService.js" />
     </list>
     <ignored path="$PROJECT_DIR$/pinyougou-sellergoods-service/target/" />
     <ignored path="$PROJECT_DIR$/pinyougou-pojo/target/" />
@@ -779,13 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/resources/spring/springmvc.xml" />
-        <option value="$PROJECT_DIR$/pinyougou-sellergoods-service/src/main/java/C.java" />
-        <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/base.js" />
-        <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/base_pagination.js" />
-        <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/controller/brandController.js" />
-        <option value="$PROJECT_DIR$/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/GoodsService.java" />
-        <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/java/com/pinyougou/manager/controller/GoodsController.java" />
         <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/java/com/pinyougou/manager/controller/TypeTemplateController.java" />
         <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/java/com/pinyougou/manager/controller/ItemController.java" />
         <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/specification.html" />
@@ -815,14 +104,11 @@
         <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/controller/indexController.js" />
         <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/java/com/pinyougou/manager/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/index.html" />
-        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/resources/spring/spring-security.xml" />
         <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/register.html" />
         <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/brand.html" />
         <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/seller.html" />
         <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/admin/seller_1.html" />
-        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/pinyougou-shop-web/pom.xml" />
-        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/SellerController.java" />
         <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/shoplogin.html" />
         <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/controller/sellerController.js" />
@@ -830,6 +116,16 @@
         <option value="$PROJECT_DIR$/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/SellerServiceImpl.java" />
         <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/service/sellerService.js" />
         <option value="$PROJECT_DIR$/pinyougou-manager-web/src/main/java/com/pinyougou/manager/controller/SellerController.java" />
+        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/service/UserDetailsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/SellerController.java" />
+        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/resources/spring/spring-security.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/controller/sellerController.js" />
+        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/service/sellerService.js" />
+        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/service/loginService.js" />
+        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/controller/indexController.js" />
+        <option value="$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/admin/index.html" />
       </list>
     </option>
   </component>
@@ -895,10 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -944,25 +236,35 @@
             <path>
               <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinyougou-sellergoods-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinyougou-sellergoods-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinyougou-sellergoods-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinyougou-sellergoods-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -970,51 +272,93 @@
             <path>
               <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinyougou-sellergoods-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyougou-shop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinyougou-sellergoods-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinyougou-sellergoods-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinyougou-sellergoods-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinyougou-sellergoods-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pinyougou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pinyougou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="pinyougou-sellergoods-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1028,11 +372,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\pinyougou-master\pinyougou-parent\pinyougou-shop-web\src\main\webapp\js\controller" />
+      <recent name="C:\pinyougou-master\pinyougou-parent\pinyougou-shop-web\src\main\webapp\js\service" />
       <recent name="C:\pinyougou-master\pinyougou-parent\pinyougou-shop-web\src\main\java\com\pinyougou\shop\controller" />
       <recent name="C:\pinyougou-master\pinyougou-parent\pinyougou-shop-web\src\main\webapp" />
       <recent name="C:\pinyougou-master\pinyougou-parent\pinyougou-manager-web\src\main\webapp\js\controller" />
-      <recent name="C:\pinyougou-master\pinyougou-parent\pinyougou-manager-web\src\main\webapp\js\service" />
-      <recent name="C:\pinyougou-master\pinyougou-parent\pinyougou-manager-web\src\main\webapp\js\plugins" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1047,7 +391,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.manager-web">
+  <component name="RunManager" selected="Maven.shop-web">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -1244,6 +588,7 @@
       <workItem from="1521515154640" duration="2005000" />
       <workItem from="1521526637487" duration="10191000" />
       <workItem from="1521541767906" duration="8003000" />
+      <workItem from="1521591839488" duration="4452000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1521039976181</created>
@@ -1291,7 +636,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69030000" />
+    <option name="totallyTimeSpent" value="73482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1299,7 +644,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36748633" sideWeight="0.20791367" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16402878" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16402878" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1316,7 +661,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36202186" sideWeight="0.7920863" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24532375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5870504" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1334,8 +679,8 @@
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36748633" sideWeight="0.20791367" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16402878" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36748633" sideWeight="0.20791367" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16402878" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1351,10 +696,10 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36612022" sideWeight="0.7920863" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36202186" sideWeight="0.7920863" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23669064" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5870504" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1382,48 +727,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbBrandMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="31" column="11" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbBrandMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="182" column="11" lean-forward="false" selection-start-line="182" selection-start-column="11" selection-end-line="182" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-dao/src/main/java/com/pinyougou/mapper/TbSpecificationMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-dao/src/main/resources/com/pinyougou/mapper/TbSpecificationMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="168" column="11" lean-forward="false" selection-start-line="168" selection-start-column="11" selection-end-line="168" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/SpecificationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="63" column="40" lean-forward="false" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-sellergoods-interface/src/main/java/com/pinyougou/sellergoods/service/BrandService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pinyougou-sellergoods-service/src/main/java/com/pinyougou/sellergoods/service/impl/SpecificationServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="587">
@@ -1526,20 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/controller/indexController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/service/loginService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pinyougou-manager-web/src/main/java/com/pinyougou/manager/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1595,9 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="235" column="10" lean-forward="true" selection-start-line="235" selection-start-column="10" selection-end-line="235" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1605,23 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/controller/sellerController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1248">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/service/sellerService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1633,43 +902,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/UploadController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/GoodsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-632">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/UploadController.java" />
+    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/GoodsController.java" />
     <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1567">
           <caret line="166" column="93" lean-forward="false" selection-start-line="166" selection-start-column="93" selection-end-line="166" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/resources/spring/spring-security.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1681,21 +919,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/SellerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="109" column="6" lean-forward="false" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pinyougou-pojo/src/main/java/com/pinyougou/pojo/TbSpecificationOptionExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1703,7 +930,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1727,7 +953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="219" column="114" lean-forward="false" selection-start-line="219" selection-start-column="102" selection-end-line="219" selection-end-column="114" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1751,7 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="80" column="43" lean-forward="false" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1759,6 +983,115 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="34" column="49" lean-forward="false" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/SellerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="54" column="41" lean-forward="false" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/service/UserDetailsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#760#761#0" expanded="false" />
+            <element signature="e#810#811#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/4.1.0.RELEASE/spring-security-web-4.1.0.RELEASE.jar!/org/springframework/security/web/authentication/logout/LogoutFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/controller/indexController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-manager-web/src/main/webapp/js/service/loginService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/controller/sellerController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1922">
+          <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/service/sellerService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/controller/indexController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/js/service/loginService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="46" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/java/com/pinyougou/shop/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/resources/spring/spring-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="22" column="166" lean-forward="false" selection-start-line="22" selection-start-column="166" selection-end-line="22" selection-end-column="166" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinyougou-shop-web/src/main/webapp/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="285" column="42" lean-forward="false" selection-start-line="285" selection-start-column="42" selection-end-line="285" selection-end-column="42" />
           <folding />
         </state>
       </provider>
