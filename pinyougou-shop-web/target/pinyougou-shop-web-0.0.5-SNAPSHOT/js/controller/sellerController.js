@@ -90,5 +90,12 @@ app.controller('sellerController' ,function($scope,$controller   ,sellerService)
 			}			
 		);
 	}
+	$scope.loginName=function () {
+        sellerService.loginName().success(
+        	function (repsonse) {
+                $scope.loginName=response.loginName
+            }
+		);
+    }
     
 });	

@@ -1,10 +1,16 @@
 package com.pinyougou.sellergoods.service.impl;
 import java.util.List;
+
+import com.pinyougou.mapper.TbItemCatMapper;
+import com.pinyougou.mapper.TbItemMapper;
+
+import com.pinyougou.pojo.TbItemCat;
+import com.pinyougou.pojo.TbItemCatExample;
 import org.springframework.beans.factory.annotation.Autowired;
 import com.alibaba.dubbo.config.annotation.Service;
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
-import com.pinyougou.mapper.TbItemMapper;
+
 import com.pinyougou.pojo.TbItem;
 import com.pinyougou.pojo.TbItemExample;
 import com.pinyougou.pojo.TbItemExample.Criteria;
@@ -22,6 +28,7 @@ public class ItemServiceImpl implements ItemService {
 
 	@Autowired
 	private TbItemMapper itemMapper;
+
 	
 	/**
 	 * 查询全部
@@ -132,5 +139,5 @@ public class ItemServiceImpl implements ItemService {
 		Page<TbItem> page= (Page<TbItem>)itemMapper.selectByExample(example);		
 		return new PageResult(page.getTotal(), page.getResult());
 	}
-	
+
 }

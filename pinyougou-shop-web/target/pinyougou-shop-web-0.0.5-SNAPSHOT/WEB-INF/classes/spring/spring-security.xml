@@ -20,7 +20,7 @@
         <!--角色设置,必须是商家才能访问的页面-->
         <intercept-url pattern="/**" access="ROLE_SELLER"/>
         <!--开启表单登录的功能-->
-        <form-login always-use-default-target="true" login-page="shoplogin.html" authentication-failure-url="shoplogin.html" default-target-url="/admin/index.html"/>
+        <form-login  login-page="/shoplogin.html" authentication-failure-url="/shoplogin.html" default-target-url="/admin/index.html" always-use-default-target="true"/>
         <!--关闭csrf 跨站请求伪造  自定义RequestMatcher的实现类CsrfSecurityRequestMatcher-->
         <csrf disabled="true"/>
         <!--  针对跨域问题的解决
@@ -33,5 +33,20 @@
         <!--默认的退出登录-->
         <logout/>
     </http>
+<authentication-manager >
+    <authentication-provider user-service-ref="userDetailsService">
+        <password-encoder ref="bcryptEncoder"></password-encoder>
+    </authentication-provider>
+</authentication-manager>
+    <!-- 引用 dubbo 服务 -->
+    <dubbo:application name="pinyougou-shop-web" />
+    <dubbo:registry address="zookeeper://120.79.95.33:2181"/>
+    <dubbo:reference id="sellerService"
+                     interface="com.pinyougou.sellergoods.service.SellerService" >
+    </dubbo:reference>
 
+<beans:bean id="userDetailsService" class="com.pinyougou.service.UserDetailsServiceImpl">
+    <beans:property name="sellerService" ref="sellerService"/>
+</beans:bean>
+    <beans:bean id="bcryptEncoder" class="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
 </beans:beans>

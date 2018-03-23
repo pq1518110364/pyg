@@ -1,6 +1,7 @@
 package com.pinyougou.shop.controller;
 import java.util.List;
 
+import com.pinyougou.pojo.TbItemCat;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -22,6 +23,7 @@ public class SellerController {
 
 	@Reference
 	private SellerService sellerService;
+
 	
 	/**
 	 * 返回全部列表
@@ -117,5 +119,5 @@ public class SellerController {
 	public PageResult search(@RequestBody TbSeller seller, int page, int rows  ){
 		return sellerService.findPage(seller, page, rows);		
 	}
-	
+
 }

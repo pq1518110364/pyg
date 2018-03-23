@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [23/Mar/2018:14:06:53 +0800] "GET /admin/brand.html HTTP/1.1" 302 - http-bio-9101-exec-1 136
+0:0:0:0:0:0:0:1 - - [23/Mar/2018:14:06:53 +0800] "GET /login.html HTTP/1.1" 200 3339 http-bio-9101-exec-7 20
+0:0:0:0:0:0:0:1 - - [23/Mar/2018:14:06:53 +0800] "GET /css/pages-login-manage.css HTTP/1.1" 200 2388 http-bio-9101-exec-2 8
+0:0:0:0:0:0:0:1 - - [23/Mar/2018:14:06:53 +0800] "GET /css/webbase.css HTTP/1.1" 200 254102 http-bio-9101-exec-8 13
+0:0:0:0:0:0:0:1 - - [23/Mar/2018:14:06:53 +0800] "GET /js/plugins/jquery/jquery.min.js HTTP/1.1" 200 95974 http-bio-9101-exec-4 15
+0:0:0:0:0:0:0:1 - - [23/Mar/2018:14:06:53 +0800] "GET /js/plugins/jquery-placeholder/jquery.placeholder.min.js HTTP/1.1" 200 2162 http-bio-9101-exec-6 21
+0:0:0:0:0:0:0:1 - - [23/Mar/2018:14:06:53 +0800] "GET /img/wx_cz.jpg HTTP/1.1" 200 7171 http-bio-9101-exec-3 25
+0:0:0:0:0:0:0:1 - - [23/Mar/2018:14:06:53 +0800] "GET /js/plugins/sui/sui.min.js HTTP/1.1" 200 105315 http-bio-9101-exec-5 25
+0:0:0:0:0:0:0:1 - - [23/Mar/2018:14:06:53 +0800] "GET /js/pages/jquery.slideunlock.js HTTP/1.1" 200 5528 http-bio-9101-exec-9 6
+0:0:0:0:0:0:0:1 - - [23/Mar/2018:14:33:54 +0800] "GET /admin/brand.html HTTP/1.1" 302 - http-bio-9101-exec-1 97
